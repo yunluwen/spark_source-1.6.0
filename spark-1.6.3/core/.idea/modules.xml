@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/IdeaProjects/kotlin_study/kotlin_study.iml" filepath="$USER_HOME$/IdeaProjects/kotlin_study/kotlin_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-core_2.10.iml" filepath="$PROJECT_DIR$/spark-core_2.10.iml" />
+    </modules>
+  </component>
+</project>
